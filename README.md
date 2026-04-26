@@ -156,3 +156,17 @@ Interested in this project or want to use the full system?
 
 This project is intended for **educational, simulation, and performance testing purposes only**.  
 Unauthorized redistribution or reverse engineering is prohibited.
+
+---
+
+## 🔐 Important Note on PAN & PIN Tools
+
+- This project includes **PAN Generation** and **PIN Generation** utilities as compiled `.exe` files.  
+- The **source code is not shared intentionally** to protect the core encryption logic.  
+
+### ▶️ How to Use
+
+1. Run the executable via terminal:
+   ```bash
+   ./pan.exe
+   ./pin.exe
